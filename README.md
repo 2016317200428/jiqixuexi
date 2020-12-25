@@ -1,5 +1,9 @@
 #### 实验环境
-python3.5
+python3.5 
+
+OpenCV2.4.8
+
+scipy0.13
 
 实验数据
 
